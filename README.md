@@ -1,13 +1,13 @@
 # FalabellaTestAutomation
 
-#Lanzar Tests
-ubicarse en la carpeta donde se tiene el proyecto con el comando 
-~cd .../hybridtestng/
+**#Lanzar Tests**
+Ubicarse en la carpeta donde se tiene el proyecto con el comando 
+~cd ruta del proyecto FalabellaTestAutomation
 Ejecutar los test
 ~mvn -test
 
 
-#Estructura del proyecto
+**#Estructura del proyecto**
 El proyecto esta construido con el modelo POM(Page Objet Model), consta de:
 1.Clase Base: 
   Base.java: La cuál permite aislar las clases page de los comandos de selenium.
