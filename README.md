@@ -5,7 +5,7 @@ Ubicarse en la carpeta donde se tiene el proyecto con el comando
 ~cd ruta del proyecto FalabellaTestAutomation
 Ejecutar los test
 ~mvn -test
-
+*Se debe tener Maven instalado en la máquina a ejecutar los tests*
 
 **#Estructura del proyecto**
 El proyecto esta construido con el modelo POM(Page Objet Model), consta de:
